@@ -1,0 +1,13 @@
+.input-form{
+    width: 100%;
+    background-color: #f3f3f3;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.form-element{
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.hidden {
+  display: none;
+  visibility: hidden;

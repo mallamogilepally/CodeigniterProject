@@ -1,0 +1,32 @@
+/*For login and sign up form*/
+.container{
+    margin-top: 10em;
+   
+}
+.startform{
+    background-color: yellow;
+    padding: 20px;
+    border-radius: 3px
+    
+}
+
+/*----Nav Bar-----*/
+#admin-navbar
+{
+
+height: auto;
+    
+}
+.navbar .navbar-text {
+   font-weight: bolder;
+    font-size: 1em;
+    
+}
+
+.navbar .navbar-nav{
+    margin: 0 auto;
+}
+.navbar .navbar-nav .nav-item{
+    margin-left: 3px;
+    margin-right: 3px;
+}
